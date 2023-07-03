@@ -1,0 +1,2992 @@
+[
+    {
+        "title": "本月热门",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/clipdrop-icon.png",
+                "name": "ClipDrop",
+                "des": "Stability.ai推出的AI图片处理系列工具",
+                "href": "https://clipdrop.co"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/FaceSwap.png",
+                "name": "FaceSwap",
+                "des": "AI视频换脸工具",
+                "href": "https://faceswap.dev/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/dora.png",
+                "name": "Dora AI",
+                "des": "一行文本生成网址",
+                "href": "https://www.dora.run/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/designer-microsoft.png",
+                "name": "Microsoft Designer",
+                "des": "一句话就能生成你想要的设计图",
+                "href": "https://designer.microsoft.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tryleap-ai-icon.png",
+                "name": "Leap",
+                "des": "将AI快速集成到你自己的应用中",
+                "href": "https://www.tryleap.ai/?utm_source=ai-bot.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/draggan.png",
+                "name": "Drag Gan",
+                "des": "AI修图神器",
+                "href": "https://github.com/XingangPan/DragGAN"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/svc.png",
+                "name": "So Vits Svc｜人声模拟",
+                "des": "人声克隆｜音频模拟｜唱歌仿声",
+                "href": "https://github.com/svc-develop-team/so-vits-svc"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tigerbot-icon.png",
+                "name": "TigerBot",
+                "des": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+                "href": "https://tigerbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ai-news.png",
+                "name": "AI日报",
+                "des": "每日AI新资讯",
+                "href": "/news/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/digest.png",
+                "name": "AI文摘",
+                "des": "收集AI领域优秀文章",
+                "href": "/digest/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/photo.png",
+                "name": "每日一画",
+                "des": "每日一张有故事的图片",
+                "href": "/photo/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/github.png",
+                "name": "AiBard123开源项目",
+                "des": "AiBard123开源项目在github上的地址",
+                "href": "https://github.com/go2coding/go2coding.github.io"
+            }
+        ]
+    },
+    {
+        "title": "免费ChatGPT",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/wetab.png",
+                "name": "Wetab",
+                "des": "人手一个ChatGPT",
+                "href": "https://www.wetab.link/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/mst.ico",
+                "name": "MINISTERAI",
+                "des": "ChatGPT + Stable Diffusion + Midjourney 三合一全免费",
+                "href": "https://mst.ai/home"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/forefront.png",
+                "name": "ForeFront",
+                "des": "针对性地帮助自己完成各种任务",
+                "href": "https://chat.forefront.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ora.ico",
+                "name": "Ora",
+                "des": "无限制地免费访问GPT-4",
+                "href": "https://ora.sh/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tdchat.ico",
+                "name": "TDchat",
+                "des": "国内独立开发者做的网站",
+                "href": "https://www.tdchat.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fastgpt.png",
+                "name": "fastgpt",
+                "des": "支持AI对话、写作、文案、创作人工智能机器人",
+                "href": "https://fastgpt.app/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/poe.ico",
+                "name": "poe",
+                "des": "使用提示创建自己的机器人",
+                "href": "https://poe.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/bai.png",
+                "name": "BAI Chat",
+                "des": "类似ChapGPT",
+                "href": "https://chatbot.theb.ai/#/chat/1002"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chat35.png",
+                "name": "chat35",
+                "des": "由 OpenAI 训练的大型语言模型",
+                "href": "https://chat35.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/promptboom.ico",
+                "name": "promptboom",
+                "des": "免费使用、不需要注册的 ChatGPT 网站",
+                "href": "https://www.promptboom.com/"
+            }
+        ]
+    },
+    {
+        "title": "热门网站",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/openai-gpt-model.png",
+                "name": "ChatGPT-4",
+                "des": "OpenAI旗下最新的GPT-4模型",
+                "href": "https://openai.com/product/gpt-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/anthropic.png",
+                "name": "Claude",
+                "des": "AI安全咨询工具",
+                "href": "https://www.anthropic.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huggingchat-icon.png",
+                "name": "HuggingChat",
+                "des": "HuggingFace推出的在线聊天机器人，基于Open Assistant模型",
+                "href": "https://huggingface.co/chat"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wetab.png",
+                "name": "Wetab",
+                "des": "人手一个ChatGPT",
+                "href": "https://www.wetab.link/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/midjourney-icon.png",
+                "name": "Midjourney",
+                "des": "AI图像和插画生成工具",
+                "href": "https://midjourney.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/leonardo-logo.png",
+                "name": "Leonardo.AI",
+                "des": "强大AI图像生成工具",
+                "href": "https://app.leonardo.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/notion-ai-icon.png",
+                "name": "Notion AI",
+                "des": "Notion旗下的AI笔记和内容创作助手",
+                "href": "https://www.notion.so/product/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "文心一格",
+                "des": "AI艺术和创意辅助平台",
+                "href": "https://yige.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tome-app-icon.png",
+                "name": "Tome",
+                "des": "AI创作叙事性幻灯片",
+                "href": "https://tome.app"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/remove-bg-icon.png",
+                "name": "remove.bg",
+                "des": "强大的AI背景移除工具",
+                "href": "https://www.remove.bg/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fliki-icon.png",
+                "name": "Fliki",
+                "des": "AI文字转视频并配音",
+                "href": "https://fliki.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/jasper-ai-icon.png",
+                "name": "Jasper",
+                "des": "AI文字内容创作工具",
+                "href": "https://www.jasper.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stability-ai-icon.png",
+                "name": "DreamStudio",
+                "des": "Stability AI推出的文本到图像生成AI模型",
+                "href": "http://beta.dreamstudio.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/copy-ai-icon.png",
+                "name": "Copy.ai",
+                "des": "人工智能营销文案和内容创作工具",
+                "href": "https://www.copy.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/photoroom-icon.png",
+                "name": "PhotoRoom",
+                "des": "免费的AI图片背景移除和添加",
+                "href": "https://www.photoroom.com/background-remover"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/opengpt-icon.png",
+                "name": "OpenGPT",
+                "des": "开源ChatGPT工具箱，创建属于自己的ChatGPT应用",
+                "href": "https://open-gpt.app"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/github-copilot-icon.png",
+                "name": "GitHub Copilot",
+                "des": "GitHub AI编程工具",
+                "href": "https://github.com/features/copilot"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/new-bing-icon.png",
+                "name": "Bing Image Creator",
+                "des": "微软必应推出的基于DALL·E的AI图像生成工具",
+                "href": "https://www.bing.com/create"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/baidu-yiyan-icon.png",
+                "name": "文心一言",
+                "des": "百度推出的基于文心大模型的AI对话互动工具",
+                "href": "https://yiyan.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tongyi.png",
+                "name": "通义千问",
+                "des": "阿里推出类ChatGPT的产品",
+                "href": "https://tongyi.aliyun.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/new-bing-icon.png",
+                "name": "Bing新必应",
+                "des": "微软推出的新版结合了ChatGPT功能的必应",
+                "href": "https://www.bing.com/new"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/heypi-icon.png",
+                "name": "Pi",
+                "des": "DeepMind联创新公司推出的AI聊天机器人",
+                "href": "https://heypi.com/talk"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/autogpt-icon.png",
+                "name": "Auto-GPT",
+                "des": "爆火的实现GPT-4完全自主的实验性开源项目",
+                "href": "https://agpt.co"
+            }
+        ]
+    },
+    {
+        "title": "国内热门",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/baidu-yiyan-icon.png",
+                "name": "文心一言",
+                "des": "百度推出的基于文心大模型的AI对话互动工具",
+                "href": "https://yiyan.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tongyi.png",
+                "name": "通义千问",
+                "des": "阿里推出类ChatGPT的产品",
+                "href": "https://tongyi.aliyun.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "文心一格",
+                "des": "AI艺术和创意辅助平台",
+                "href": "https://yige.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sensetime.png",
+                "name": "商量",
+                "des": "商汤科技 AGI",
+                "href": "https://chat.sensetime.com/wb/#/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/xiezuocat-ai-icon.png",
+                "name": "写作猫",
+                "des": "AI写作，文档管理",
+                "href": "https://xiezuocat.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/gezhe-caixuan-icon.png",
+                "name": "歌者AI",
+                "des": "彩漩推出的AI 智能对话、PPT生成工具、辅助阅读",
+                "href": "https://gezhe.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/if-caiyunai-icon.png",
+                "name": "彩云小梦",
+                "des": "彩云科技推出的智能AI故事写作工具",
+                "href": "https://if.caiyunai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/heyfriday-icon.png",
+                "name": "HeyFriday",
+                "des": "国内团队推出的智能AI写作工具",
+                "href": "https://www.heyfriday.cn/home"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codegeex-icon.png",
+                "name": "CodeGeex",
+                "des": "国内团队开发的免费AI编程助手",
+                "href": "https://codegeex.cn/zh-CN"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tiangong-kunlun-icon.png",
+                "name": "天工AI助手",
+                "des": "昆仑万维与奇点智源联合研发的对标ChatGPT的大语言模型",
+                "href": "https://tiangong.kunlun.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wudao-icon.png",
+                "name": "悟道",
+                "des": "智源“悟道”大模型，中国首个+世界最大人工智能大模型",
+                "href": "https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/xinghuo-xfyun-icon.png",
+                "name": "讯飞星火认知大模型",
+                "des": "科大讯飞推出的类ChatGPT的讯飞星火认知大模型",
+                "href": "http://xinghuo.xfyun.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tigerbot-icon.png",
+                "name": "TigerBot",
+                "des": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+                "href": "https://tigerbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ai-360-icon.png",
+                "name": "360智脑",
+                "des": "360搜索最新推出的AI对话聊天机器",
+                "href": "https://ai.360.cn/"
+            }
+        ]
+    },
+    {
+        "title": "对话工具",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/baidu-yiyan-icon.png",
+                "name": "文心一言",
+                "des": "百度推出的基于文心大模型的AI对话互动工具",
+                "href": "https://yiyan.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/xinghuo-xfyun-icon.png",
+                "name": "讯飞星火认知大模型",
+                "des": "科大讯飞推出的类ChatGPT的讯飞星火认知大模型",
+                "href": "http://xinghuo.xfyun.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tigerbot-icon.png",
+                "name": "TigerBot",
+                "des": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+                "href": "https://tigerbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chat-baidu-icon.png",
+                "name": "百度AI伙伴",
+                "des": "百度最新上线的AI搜索对话工具",
+                "href": "https://chat.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/google-bard-favicon.png",
+                "name": "Google Bard",
+                "des": "Google推出的AI聊天对话机器人Bard",
+                "href": "https://bard.google.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/anthropic-icon.png",
+                "name": "Claude",
+                "des": "ChatGPT的最为有力的竞争对手之一",
+                "href": "https://www.anthropic.com/earlyaccess"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/forefront.png",
+                "name": "ForeFront",
+                "des": "针对性地帮助自己完成各种任务",
+                "href": "https://chat.forefront.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/poe.ico",
+                "name": "poe",
+                "des": "使用提示创建自己的机器人",
+                "href": "https://poe.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huggingchat-icon.png",
+                "name": "HuggingChat",
+                "des": "HuggingFace推出的在线聊天机器人，基于Open Assistant模型",
+                "href": "https://huggingface.co/chat"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ai-360-icon.png",
+                "name": "360智脑",
+                "des": "360搜索最新推出的AI对话聊天机器人",
+                "href": "https://ai.360.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/moss-icon.png",
+                "name": "MOSS",
+                "des": "复旦大学团队开发的对话式大型语言模型",
+                "href": "https://moss.fastnlp.top"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatglm-icon.png",
+                "name": "ChatGLM",
+                "des": "开源的、支持中英双语的1300亿参数的对话语言模型",
+                "href": "https://chatglm.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/character-ai-icon.png",
+                "name": "Character.AI",
+                "des": "创建虚拟角色并与其对话",
+                "href": "https://character.ai"
+            }
+        ]
+    },
+    {
+        "title": "写作",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/openai-gpt-model.png",
+                "name": "GPT-4",
+                "des": "OpenAI旗下最新的GPT-4模型",
+                "href": "https://openai.com/product/gpt-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/jasper-ai-icon.png",
+                "name": "Jasper",
+                "des": "AI文字内容创作工具",
+                "href": "https://www.jasper.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/copy-ai-icon.png",
+                "name": "Copy.ai",
+                "des": "人工智能营销文案和内容创作工具",
+                "href": "https://www.copy.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/writesonic-icon.png",
+                "name": "Writesonic",
+                "des": "AI写作，文案，释义工具",
+                "href": "https://writesonic.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatdoc.png",
+                "name": "ChatDoc",
+                "des": "基于 ChatGPT 的文件阅读助手",
+                "href": "https://chatdoc.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatthing.png",
+                "name": "ChatThing",
+                "des": "和私有文档进行对话",
+                "href": "https://chatthing.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/myaskai.png",
+                "name": "MyAskAi",
+                "des": "文档网页私人问答",
+                "href": "https://myaskai.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/rytr-me-icon.png",
+                "name": "Rytr",
+                "des": "AI内容生成和写作助手",
+                "href": "https://rytr.me"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/notion-ai-icon.png",
+                "name": "Notion AI",
+                "des": "Notion旗下的AI笔记和内容创作助手",
+                "href": "https://www.notion.so/product/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/weeklyreport.png",
+                "name": "周报生成器",
+                "des": "简单描述工作内容 帮你生成完整周报",
+                "href": "https://weeklyreport.avemaria.fun/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/quillbot-icon.png",
+                "name": "QuillBot",
+                "des": "AI英/德语写作润色和改进工具",
+                "href": "https://try.quillbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepl-write-icon.png",
+                "name": "DeepL Write",
+                "des": "DeepL推出的AI驱动的写作助手",
+                "href": "https://www.deepl.com/write"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huoshan-writing-icon.png",
+                "name": "火山写作",
+                "des": "字节跳动旗下团队推出的英语写作助手",
+                "href": "https://www.writingo.net"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/novel-ai-icon.png",
+                "name": "NovelAI",
+                "des": "AI小说故事创作工具",
+                "href": "https://novelai.net"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/bearly-ai-icon.png",
+                "name": "Bearly",
+                "des": "AI阅读总结、写作和内容生成助手",
+                "href": "https://bearly.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/contentbot-icon.png",
+                "name": "ContentBot",
+                "des": "AI快速写作工具",
+                "href": "https://contentbot.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/copysmith-icon.png",
+                "name": "Copysmith",
+                "des": "企业级和电商文案生成",
+                "href": "https://copysmith.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/canva-icon.png",
+                "name": "Magic Write",
+                "des": "Canva旗下AI文案生成器",
+                "href": "https://www.canva.com/magic-write"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/peppertype-ai-icon.png",
+                "name": "Peppertype.ai",
+                "des": "高质量AI内容生成",
+                "href": "https://www.peppertype.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/spell-tools-icon.png",
+                "name": "Spell.tools",
+                "des": "高颜值AI内容营销创作工具",
+                "href": "https://spell.tools"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/taobao-xiyu-icon.png",
+                "name": "悉语",
+                "des": "阿里旗下智能文案工具，一键生成电商营销文案",
+                "href": "https://chuangyi.taobao.com/pages/aiCopy"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wen-mobvoi-icon.png",
+                "name": "奇妙文",
+                "des": "出门问问推出的AI写作助理",
+                "href": "https://wen.mobvoi.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tinywow.png",
+                "name": "TinyWow",
+                "des": "无需注册提供AI写作等功能",
+                "href": "https://tinywow.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/beautiful-ai-icon.png",
+                "name": "beautiful.ai",
+                "des": "AI创建生成幻灯片",
+                "href": "https://www.beautiful.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatpdf.ico",
+                "name": "ChatPDF",
+                "des": "几分钟帮你解读pdf文件",
+                "href": "https://www.chatpdf.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/palm2-icon.png",
+                "name": "PaLM 2",
+                "des": "Google的下一代大语言模型，超过3400亿参数",
+                "href": "https://ai.google/discover/palm2"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/treemind-shutu-icon.png",
+                "name": "TreeMind树图",
+                "des": "新一代AI智能思维导图",
+                "href": "https://shutu.cn/"
+            }
+        ]
+    },
+    {
+        "title": "文本翻译",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/google-translate-icon.png",
+                "name": "Google翻译",
+                "des": "Google免费提供的上百种语言智能翻译工具",
+                "href": "https://translate.google.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-baidu-icon.png",
+                "name": "百度翻译",
+                "des": "200种语言互译、沟通全世界！",
+                "href": "https://fanyi.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-youdao-icon.png",
+                "name": "有道翻译",
+                "des": "在线即时翻译文本、文档、网页",
+                "href": "https://fanyi.youdao.com/index.html#"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-sogou-icon.png",
+                "name": "搜狗翻译",
+                "des": "你的贴身智能翻译专家",
+                "href": "https://fanyi.sogou.com/text"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-xfyun-icon.png",
+                "name": "讯飞智能翻译",
+                "des": "科大讯飞推出的人工智能翻译平台",
+                "href": "https://fanyi.xfyun.cn/console/trans/text"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepl-write-icon.png",
+                "name": "DeepL翻译",
+                "des": "准确的人工智能翻译工具",
+                "href": "https://www.deepl.com/translator"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/translate-voclengine-icon.png",
+                "name": "火山翻译",
+                "des": "字节跳动推出的智能翻译工具",
+                "href": "https://translate.volcengine.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/translate-alibaba-icon.png",
+                "name": "阿里翻译",
+                "des": "阿里巴巴达摩院推出的多领域多语种的在线机器翻译",
+                "href": "https://translate.alibaba.com/?ref=ai-bot.cn"
+            }
+        ]
+    },
+    {
+        "title": "图像",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/midjourney-icon.png",
+                "name": "Midjourney",
+                "des": "AI图像和插画生成工具",
+                "href": "https://midjourney.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/leonardo-logo.png",
+                "name": "Leonardo.AI",
+                "des": "强大AI图像生成工具",
+                "href": "https://app.leonardo.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/getimg.png",
+                "name": "getimg.ai",
+                "des": "生成原创图片",
+                "href": "https://getimg.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/playgroundai.png",
+                "name": "playgroundai",
+                "des": "很好上手的图片生成工具",
+                "href": "https://playgroundai.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/dreamlike.png",
+                "name": "dreamlike",
+                "des": "文本生成图片工具",
+                "href": "https://dreamlike.art"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/new-bing-icon.png",
+                "name": "Bing Image Creator",
+                "des": "微软必应推出的基于DALL·E的AI图像生成工具",
+                "href": "https://www.bing.com/create"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stability-ai-icon.png",
+                "name": "DreamStudio",
+                "des": "Stability AI推出的文本到图像生成AI模型",
+                "href": "http://beta.dreamstudio.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/remove-bg-icon.png",
+                "name": "remove.bg",
+                "des": "强大的AI背景移除工具",
+                "href": "https://www.remove.bg/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ribbet-ai-icon.png",
+                "name": "Ribbet.ai",
+                "des": "AI图片处理工具箱",
+                "href": "https://ribbet.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/adobe-icon.png",
+                "name": "Adobe Firefly",
+                "des": "Adobe最新推出的AI图片生成工具",
+                "href": "https://firefly.adobe.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/booltool-icon.png",
+                "name": "Booltool",
+                "des": "在线AI图像工具箱",
+                "href": "https://booltool.boolv.tech/home"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/hama-app-icon.png",
+                "name": "Hama",
+                "des": "在线抹除图片中不想要的物体",
+                "href": "https://www.hama.app/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/pixelcut-icon.png",
+                "name": "Pixelcut.ai",
+                "des": "AI产品背景移除和替换",
+                "href": "https://www.pixelcut.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/meitu-cutout-icon.png",
+                "name": "美图抠图",
+                "des": "美图秀秀推出的AI智能抠图工具，一键移除背景",
+                "href": "https://cutout.meitu.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paint-mobvoi-icon.png",
+                "name": "言之画",
+                "des": "AI图像内容创作平台，由出门问问推出",
+                "href": "https://paint.mobvoi.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/taishan-qq-icon.png",
+                "name": "智绘设计",
+                "des": "腾讯推出的智能设计平台，让内容更精彩",
+                "href": "https://taishan.qq.com/brand"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aliyun-icon.png",
+                "name": "阿里云智能logo设计",
+                "des": "阿里云推出的智能Logo设计",
+                "href": "https://logo.aliyun.com/logo#/aigc"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ailogo-qq-icon.png",
+                "name": "AIDesign",
+                "des": "腾讯推出的免费AI Logo在线设计工具",
+                "href": "https://ailogo.qq.com/guide/brandname"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/luban-icon.png",
+                "name": "鹿班",
+                "des": "阿里推出的智能设计商品图和海报的平台",
+                "href": "https://luban.aliyun.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/clipdrop-relight-icon-1.png",
+                "name": "Relight",
+                "des": "ClipDrop推出的AI图像打光工具",
+                "href": "https://clipdrop.co/relight"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/clipdrop-icon.png",
+                "name": "ClipDrop",
+                "des": "Stability.ai推出的AI图片处理系列工具",
+                "href": "https://clipdrop.co"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/shimo.jpg",
+                "name": "标小智",
+                "des": "AI智能设计LOGO神器",
+                "href": "https://www.logosc.cn/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/shimo_ai.png",
+                "name": "AI改图神器",
+                "des": "不会PS也能即刻上手的万能图片在线编辑器",
+                "href": "https://img.logosc.cn/"
+            }
+        ]
+    },
+    {
+        "title": "电商工具",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/openai-gpt-model.png",
+                "name": "GPT-4",
+                "des": "OpenAI旗下最新的GPT-4模型",
+                "href": "https://openai.com/product/gpt-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/midjourney-icon.png",
+                "name": "Midjourney",
+                "des": "AI图像和插画生成工具",
+                "href": "https://midjourney.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stablediffusionweb.png",
+                "name": "stable diffusion web",
+                "des": "生成服装模特",
+                "href": "https://stablediffusionweb.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/mokker.png",
+                "name": "mokker ai",
+                "des": "抠图加背景",
+                "href": "https://mokker.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/descript.png",
+                "name": "descript",
+                "des": "短视频自动生成",
+                "href": "https://www.descript.com/"
+            }
+        ]
+    },
+    {
+        "title": "编程",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/github-copilot-icon.png",
+                "name": "GitHub Copilot",
+                "des": "GitHub AI编程工具",
+                "href": "https://github.com/features/copilot"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codeium-icon.png",
+                "name": "Codeium",
+                "des": "AI代码生成和补全",
+                "href": "https://www.codeium.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tabnine-icon.png",
+                "name": "Tabnine",
+                "des": "AI代码自动补全编程助手",
+                "href": "https://www.tabnine.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sketch2code-icon.png",
+                "name": "Sketch2Code",
+                "des": "微软AI Lab推出的将手绘草图转换成HTML代码工具",
+                "href": "https://sketch2code.azurewebsites.net"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codiumai-icon.png",
+                "name": "CodiumAI",
+                "des": "AI代码测试工具",
+                "href": "https://www.codium.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codiga-icon.png",
+                "name": "Codiga",
+                "des": "AI代码实时分析",
+                "href": "https://www.codiga.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codegeex-icon.png",
+                "name": "CodeGeex",
+                "des": "国内团队开发的免费AI编程助手",
+                "href": "https://codegeex.cn/zh-CN"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/vs-intellicode-icon.png",
+                "name": "Visual Studio IntelliCode",
+                "des": "Visual Studio AI辅助开发",
+                "href": "https://visualstudio.microsoft.com/zh-hans/services/intellicode"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/blackbox-ai-icon.png",
+                "name": "BLACKBOX AI",
+                "des": "黑箱AI编程助理，快速代码生成",
+                "href": "https://www.useblackbox.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aixcoder-icon.png",
+                "name": "aiXcoder",
+                "des": "自然语言到代码的方法级代码生成，以及多行智能代码补全",
+                "href": "https://www.aixcoder.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sourcegraph-cody-icon.png",
+                "name": "Cody",
+                "des": "Sourcegraph推出的免费AI编程工具",
+                "href": "https://about.sourcegraph.com/cody"
+            }
+        ]
+    },
+    {
+        "title": "视频",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/runwayml-icon.png",
+                "name": "Runway",
+                "des": "Runway最开始是一个供创作人...",
+                "href": "https://runwayml.com/green-screen"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/d-id-icon.png",
+                "name": "D-ID",
+                "des": "AI真人口播视频生成工具",
+                "href": "https://www.d-id.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/heygen-icon.png",
+                "name": "HeyGen",
+                "des": "AIGC 视频创建平台，生成吸引人的商业视频",
+                "href": "https://www.heygen.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/colossyan-icon.png",
+                "name": "Colossyan",
+                "des": "AI虚拟人出镜视频生成",
+                "href": "https://www.colossyan.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/elai.io-icon.png",
+                "name": "Elai.io",
+                "des": "AI文本到视频生成工具",
+                "href": "https://elai.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepbrain-ai-icon.png",
+                "name": "DeepBrain",
+                "des": "AI口播视频生成工具",
+                "href": "https://www.deepbrain.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/zenvideo-qq-icon.png",
+                "name": "腾讯智影",
+                "des": "腾讯推出的在线智能视频创作平台",
+                "href": "https://zenvideo.qq.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/weta365-icon.png",
+                "name": "奇妙元",
+                "des": "AI数字人视频生成平台，由出门问问推出",
+                "href": "https://weta365.com/conduct"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/virbo-wondershare-icon.png",
+                "name": "万兴播爆",
+                "des": "万兴科技推出的AI数字人口播视频营销工具",
+                "href": "https://virbo.wondershare.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/musiclm.png",
+                "name": "MusicLM",
+                "des": "输入文字就能生成歌曲",
+                "href": "https://google-research.github.io/seanet/musiclm/examples/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/musicgen.png",
+                "name": "MusicGen",
+                "des": "meta开源的文字生成歌曲",
+                "href": "https://huggingface.co/spaces/facebook/MusicGen"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/artflow-ai-icon.png",
+                "name": "Artflow",
+                "des": "AI创建生成视频动画",
+                "href": "https://www.app.artflow.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/unscreen-icon.png",
+                "name": "Unscreen",
+                "des": "AI智能视频背景移除工具",
+                "href": "https://www.unscreen.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/lumen5-icon.png",
+                "name": "Lumen5",
+                "des": "AI将博客文章转换成视频",
+                "href": "https://lumen5.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepbrain-ai-icon.png",
+                "name": "DeepBrain",
+                "des": "AI视频生成工具",
+                "href": "https://www.deepbrain.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/dreamface-icon.png",
+                "name": "DreamFace",
+                "des": "让图片动起来的AI工具",
+                "href": "https://dreamfaceapp.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/voice-ai.png",
+                "name": "Voice.AI",
+                "des": "AI配音软件",
+                "href": "https://voice.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fliki-icon.png",
+                "name": "Fliki",
+                "des": "AI文字转视频并配音",
+                "href": "https://fliki.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/colourlab-icon.png",
+                "name": "Colourlab.ai",
+                "des": "好莱坞也在用的AI视频颜色分级工具",
+                "href": "https://colourlab.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/uberduck-icon.png",
+                "name": "Uberduck",
+                "des": "开源的AI语音生成社区，5000多种不同的声音",
+                "href": "https://uberduck.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/moyin-icon.png",
+                "name": "魔音工坊",
+                "des": "短视频/有声书AI配音平台，由出门问问推出",
+                "href": "https://www.moyin.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/beatbot-icon.png",
+                "name": "BeatBot",
+                "des": "输入文本提示快速生成歌曲和音乐",
+                "href": "https://beatbot.fm/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aigc-yizhentv-icon.png",
+                "name": "一帧秒创",
+                "des": "简单好用的AI智能视频创作平台",
+                "href": "https://aigc.yizhentv.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/synthesia-ai-icon.png",
+                "name": "Synthesia",
+                "des": "AI视频生成平台",
+                "href": "https://www.synthesia.io/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/weta365-icon.png",
+                "name": "奇妙元",
+                "des": "AI数字人视频生成平台，由出门问问推出",
+                "href": "https://weta365.com/conduct"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/autopod.ico",
+                "name": "AutoPod",
+                "des": "自动编辑视频播客和节目",
+                "href": "https://www.autopod.fm/"
+            }
+        ]
+    },
+    {
+        "title": "提示词",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/aishort.ico",
+                "name": "ChatGPT Shortcut",
+                "des": "让生产力加倍的 ChatGPT 快捷指令",
+                "href": "https://www.aishort.top/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/prompthero.png",
+                "name": "prompthero",
+                "des": "midjourney等提示词工具",
+                "href": "https://prompthero.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/promptomania.png",
+                "name": "promptomania",
+                "des": "AI绘图提示词工具",
+                "href": "https://promptomania.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/prompthunt.png",
+                "name": "Prompt Hunt",
+                "des": "提示词共享社区",
+                "href": "https://www.prompthunt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/imiprompt.png",
+                "name": "IMI Prompt",
+                "des": "AI绘图关键词",
+                "href": "https://imiprompt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/publicprompts.png",
+                "name": "Public Prompts",
+                "des": "大型语言模型提示词",
+                "href": "https://publicprompts.art/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/promptbase.png",
+                "name": "Prompt Base",
+                "des": "提示词市场",
+                "href": "https://promptbase.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/snack-prompt-icon.png",
+                "name": "Snack Prompt",
+                "des": "探索最新的ChatGPT语义提示词",
+                "href": "https://snackprompt.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/icihun-icon.png",
+                "name": "词魂",
+                "des": "AIGC精品提示词库",
+                "href": "https://icihun.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/flowgpt.ico",
+                "name": "FLOWGPT",
+                "des": "分享AI工具相关Prompt提示词的社区网站",
+                "href": "https://flowgpt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/motiongo.ico",
+                "name": "MotionGo",
+                "des": "命令式对话一键智能生成PPT",
+                "href": "https://motion.yoo-ai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/175ai-cn-logo.png",
+                "name": "一起玩Ai",
+                "des": "AI做图提示词助手，每日灵感分享",
+                "href": "https://175ai.cn"
+            }
+        ]
+    },
+    {
+        "title": "插件",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/gptzhihu.jpg",
+                "name": "gpt for zhihu",
+                "des": "chatgpt for zhihu",
+                "href": "https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-prompt-genius.jpg",
+                "name": "ChatGPT 智能提示",
+                "des": "ChatGPT 智能提示",
+                "href": "https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/gimme-summary-get-summary.jpg",
+                "name": "Gimme Summary",
+                "des": "Get summary using ChatGPT AI",
+                "href": "https://chrome.google.com/webstore/detail/gimme-summary-get-summary/mpjcikcpmljllcobpboakgocbenkhokc"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/Perplexity.jpg",
+                "name": "Perplexity - Ask AI",
+                "des": "用AI对当前网址做摘要",
+                "href": "https://chrome.google.com/webstore/detail/perplexity-ask-ai/hlgbcneanomplepojfcnclggenpcoldo"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sharegpt.png",
+                "name": "sharegpt",
+                "des": "分享chatgpt的聊天",
+                "href": "https://sharegpt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aiprm.png",
+                "name": "aiprm",
+                "des": "提示词插件-Midjourney生成器",
+                "href": "https://aiprm.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-glarity.jpg",
+                "name": "Glarity",
+                "des": "网页总结摘要的开源插件",
+                "href": "https://glarity.app/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wiseone_logo.webp",
+                "name": "Wiseone",
+                "des": "掌握你正在在线阅读的任何主题",
+                "href": "https://wiseone.io/"
+            }
+        ]
+    },
+    {
+        "title": "分辨AI",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/gptzero-icon.png",
+                "name": "GPTZero",
+                "des": "超过百万人都在用的免费AI内容检测工具",
+                "href": "https://gptzero.me"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/studycorgi-icon.png",
+                "name": "StudyCorgi ChatGPT Detector",
+                "des": "StudyCorgi推出的帮助学生检测ChatGPT的工具",
+                "href": "https://studycorgi.com/free-writing-tools/chat-gpt-detector"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/smodin-icon.png",
+                "name": "Smodin AI Content Detector",
+                "des": "多语种AI内容检测工具",
+                "href": "https://smodin.io/ai-content-detector"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sapling-ai-icon.png",
+                "name": "Sapling AI Content Detector",
+                "des": "Sapling.ai推出的免费在线AI内容检测工具",
+                "href": "https://sapling.ai/utilities/ai-content-detector"
+            }
+        ]
+    },
+    {
+        "title": "学习网站",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/coursera-icon.png",
+                "name": "Coursera",
+                "des": "大型公开在线课程项目",
+                "href": "https://www.coursera.org/collections/best-machine-learning-ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/kaggle-icon.png",
+                "name": "Kaggle",
+                "des": "机器学习和数据科学社区",
+                "href": "https://www.kaggle.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/elements-of-ai-icon.png",
+                "name": "Elements of AI",
+                "des": "免费在线AI通识学习",
+                "href": "https://www.elementsofai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deeplearning-ai-icon.png",
+                "name": "DeepLearning.AI",
+                "des": "深度学习和人工智能学习平台",
+                "href": "https://www.deeplearning.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/d2l-icon.png",
+                "name": "动手学深度学习",
+                "des": "动手学深度学习的教材和课程",
+                "href": "https://zh.d2l.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/machinelearningmastery-icon.png",
+                "name": "MachineLearningMastery",
+                "des": "免费在线学习机器学习，从基础到高级",
+                "href": "https://machinelearningmastery.com/start-here"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/brilliant-intro-neural-networks.png",
+                "name": "神经网络入门",
+                "des": "Brilliant推出的Introduction to Neural Networks课程",
+                "href": "https://brilliant.org/courses/intro-neural-networks"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/udacity-icon.png",
+                "name": "Udacity AI学院",
+                "des": "Udacity推出的School of AI，从入门到高级",
+                "href": "https://www.udacity.com/school/school-of-ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aliyun-icon.png",
+                "name": "阿里云AI学习路线",
+                "des": "阿里云推出的人工智能学习路线（学+测）",
+                "href": "https://developer.aliyun.com/learning/roadmap/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/google-ai-icon.png",
+                "name": "Google AI",
+                "des": "Google AI学习平台",
+                "href": "https://ai.google"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huggingface-icon.png",
+                "name": "HuggingFace",
+                "des": "AI开发社区",
+                "href": "https://huggingface.co"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "飞桨AI Studio",
+                "des": "人工智能学习实训社区",
+                "href": "https://aistudio.baidu.com"
+            }
+        ]
+    },
+    {
+        "title": "开源项目",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/stable-diffusion.png",
+                "name": "stable-diffusion",
+                "des": "文本到图像的扩散模型",
+                "href": "https://github.com/CompVis/stable-diffusion"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ChatGLM-6B.png",
+                "name": "ChatGLM-6B",
+                "des": "ChatGLM-6B：开源双语对话语言模型",
+                "href": "https://github.com/THUDM/ChatGLM-6B"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stanford_alpaca.png",
+                "name": "stanford alpaca",
+                "des": "Stanford's Alpaca 模型的代码和训练数据",
+                "href": "https://github.com/tatsu-lab/stanford_alpaca"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ChuanhuChatGPT.png",
+                "name": "川虎 Chat",
+                "des": "为ChatGPT/ChatGLM/LLaMA等多种LLM提供了一个轻快好用的Web图形界面",
+                "href": "https://github.com/GaiZhenbiao/ChuanhuChatGPT"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/open-assistant.png",
+                "name": "Open-Assistant",
+                "des": "能够理解任务的聊天助手",
+                "href": "https://github.com/LAION-AI/Open-Assistant"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/PaLM-rlhf-pytorch.png",
+                "name": "PaLM-rlhf-pytorch",
+                "des": "使用 PaLM的ChatGPT",
+                "href": "https://github.com/lucidrains/PaLM-rlhf-pytorch"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/OpenChatKit.png",
+                "name": "OpenChatKit",
+                "des": "为各种应用程序创建专用和通用聊天机器人",
+                "href": "https://github.com/togethercomputer/OpenChatKit"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-web.png",
+                "name": "chatgpt-web",
+                "des": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+                "href": "https://github.com/Chanzhaoyu/chatgpt-web"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/MiniGPT-4.png",
+                "name": "MiniGPT-4",
+                "des": "看图回答问题",
+                "href": "https://github.com/Vision-CAIR/MiniGPT-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/law-cn-ai.ico",
+                "name": "AI 法律助手",
+                "des": "看图回答问题",
+                "href": "https://law-cn-ai.vercel.app/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/word-GPT-Plus.png",
+                "name": "Word GPT Plus",
+                "des": "chatGPT 模型的 Word 插件",
+                "href": "https://github.com/Kuingsmile/word-GPT-Plus"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aishort.ico",
+                "name": "ChatGPT Shortcut",
+                "des": "让生产力加倍的 ChatGPT 快捷指令",
+                "href": "https://www.aishort.top/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatpaper.png",
+                "name": "ChatPaper",
+                "des": "利用chatgpt进行论文总结+润色+审稿+审稿回复",
+                "href": "https://chatpaper.org/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ChatReviewer.png",
+                "name": "ChatReviewer",
+                "des": "利用ChatGPT对论文进行优缺点分析，提出改进建议",
+                "href": "https://github.com/nishiwen1214/ChatReviewer"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/gpt_academic.png",
+                "name": "gpt_academic",
+                "des": "论文阅读润色体验",
+                "href": "https://github.com/binary-husky/gpt_academic"
+            }
+        ]
+    },
+    {
+        "title": "开发框架",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/tensorflow-icon.png",
+                "name": "TensorFlow",
+                "des": "Google推出的机器学习和人工智能开源库",
+                "href": "https://www.tensorflow.org/?hl=zh-cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/pytorch-icon.png",
+                "name": "PyTorch",
+                "des": "开源机器学习框架",
+                "href": "https://pytorch.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "飞桨PaddlePaddle",
+                "des": "开源深度学习平台",
+                "href": "https://www.paddlepaddle.org.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/apache-mxnet-icon.png",
+                "name": "Apache MXNet",
+                "des": "免费开源的深度学习框架",
+                "href": "https://mxnet.apache.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/scikit-learn-icon.png",
+                "name": "Scikit-learn",
+                "des": "Python机器学习库",
+                "href": "https://scikit-learn.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/keras-icon.png",
+                "name": "Keras",
+                "des": "Python版本的TensorFlow深度学习API",
+                "href": "https://keras.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/caffe-framework.png",
+                "name": "Caffe",
+                "des": "UC伯克利研究推出的深度学习框架",
+                "href": "https://caffe.berkeleyvision.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/numpy-icon.png",
+                "name": "NumPy",
+                "des": "Python科学计算必备的包",
+                "href": "https://numpy.org"
+            }
+        ]
+    },
+    {
+        "title": "本月热门",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/clipdrop-icon.png",
+                "name": "ClipDrop",
+                "des": "Stability.ai推出的AI图片处理系列工具",
+                "href": "https://clipdrop.co"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/FaceSwap.png",
+                "name": "FaceSwap",
+                "des": "AI视频换脸工具",
+                "href": "https://faceswap.dev/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/dora.png",
+                "name": "Dora AI",
+                "des": "一行文本生成网址",
+                "href": "https://www.dora.run/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/designer-microsoft.png",
+                "name": "Microsoft Designer",
+                "des": "一句话就能生成你想要的设计图",
+                "href": "https://designer.microsoft.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tryleap-ai-icon.png",
+                "name": "Leap",
+                "des": "将AI快速集成到你自己的应用中",
+                "href": "https://www.tryleap.ai/?utm_source=ai-bot.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/draggan.png",
+                "name": "Drag Gan",
+                "des": "AI修图神器",
+                "href": "https://github.com/XingangPan/DragGAN"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/svc.png",
+                "name": "So Vits Svc｜人声模拟",
+                "des": "人声克隆｜音频模拟｜唱歌仿声",
+                "href": "https://github.com/svc-develop-team/so-vits-svc"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tigerbot-icon.png",
+                "name": "TigerBot",
+                "des": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+                "href": "https://tigerbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ai-news.png",
+                "name": "AI日报",
+                "des": "每日AI新资讯",
+                "href": "/news/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/digest.png",
+                "name": "AI文摘",
+                "des": "收集AI领域优秀文章",
+                "href": "/digest/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/photo.png",
+                "name": "每日一画",
+                "des": "每日一张有故事的图片",
+                "href": "/photo/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/github.png",
+                "name": "AiBard123开源项目",
+                "des": "AiBard123开源项目在github上的地址",
+                "href": "https://github.com/go2coding/go2coding.github.io"
+            }
+        ]
+    },
+    {
+        "title": "免费ChatGPT",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/wetab.png",
+                "name": "Wetab",
+                "des": "人手一个ChatGPT",
+                "href": "https://www.wetab.link/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/mst.ico",
+                "name": "MINISTERAI",
+                "des": "ChatGPT + Stable Diffusion + Midjourney 三合一全免费",
+                "href": "https://mst.ai/home"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/forefront.png",
+                "name": "ForeFront",
+                "des": "针对性地帮助自己完成各种任务",
+                "href": "https://chat.forefront.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ora.ico",
+                "name": "Ora",
+                "des": "无限制地免费访问GPT-4",
+                "href": "https://ora.sh/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tdchat.ico",
+                "name": "TDchat",
+                "des": "国内独立开发者做的网站",
+                "href": "https://www.tdchat.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fastgpt.png",
+                "name": "fastgpt",
+                "des": "支持AI对话、写作、文案、创作人工智能机器人",
+                "href": "https://fastgpt.app/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/poe.ico",
+                "name": "poe",
+                "des": "使用提示创建自己的机器人",
+                "href": "https://poe.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/bai.png",
+                "name": "BAI Chat",
+                "des": "类似ChapGPT",
+                "href": "https://chatbot.theb.ai/#/chat/1002"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chat35.png",
+                "name": "chat35",
+                "des": "由 OpenAI 训练的大型语言模型",
+                "href": "https://chat35.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/promptboom.ico",
+                "name": "promptboom",
+                "des": "免费使用、不需要注册的 ChatGPT 网站",
+                "href": "https://www.promptboom.com/"
+            }
+        ]
+    },
+    {
+        "title": "热门网站",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/openai-gpt-model.png",
+                "name": "ChatGPT-4",
+                "des": "OpenAI旗下最新的GPT-4模型",
+                "href": "https://openai.com/product/gpt-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/anthropic.png",
+                "name": "Claude",
+                "des": "AI安全咨询工具",
+                "href": "https://www.anthropic.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huggingchat-icon.png",
+                "name": "HuggingChat",
+                "des": "HuggingFace推出的在线聊天机器人，基于Open Assistant模型",
+                "href": "https://huggingface.co/chat"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wetab.png",
+                "name": "Wetab",
+                "des": "人手一个ChatGPT",
+                "href": "https://www.wetab.link/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/midjourney-icon.png",
+                "name": "Midjourney",
+                "des": "AI图像和插画生成工具",
+                "href": "https://midjourney.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/leonardo-logo.png",
+                "name": "Leonardo.AI",
+                "des": "强大AI图像生成工具",
+                "href": "https://app.leonardo.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/notion-ai-icon.png",
+                "name": "Notion AI",
+                "des": "Notion旗下的AI笔记和内容创作助手",
+                "href": "https://www.notion.so/product/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "文心一格",
+                "des": "AI艺术和创意辅助平台",
+                "href": "https://yige.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tome-app-icon.png",
+                "name": "Tome",
+                "des": "AI创作叙事性幻灯片",
+                "href": "https://tome.app"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/remove-bg-icon.png",
+                "name": "remove.bg",
+                "des": "强大的AI背景移除工具",
+                "href": "https://www.remove.bg/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fliki-icon.png",
+                "name": "Fliki",
+                "des": "AI文字转视频并配音",
+                "href": "https://fliki.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/jasper-ai-icon.png",
+                "name": "Jasper",
+                "des": "AI文字内容创作工具",
+                "href": "https://www.jasper.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stability-ai-icon.png",
+                "name": "DreamStudio",
+                "des": "Stability AI推出的文本到图像生成AI模型",
+                "href": "http://beta.dreamstudio.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/copy-ai-icon.png",
+                "name": "Copy.ai",
+                "des": "人工智能营销文案和内容创作工具",
+                "href": "https://www.copy.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/photoroom-icon.png",
+                "name": "PhotoRoom",
+                "des": "免费的AI图片背景移除和添加",
+                "href": "https://www.photoroom.com/background-remover"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/opengpt-icon.png",
+                "name": "OpenGPT",
+                "des": "开源ChatGPT工具箱，创建属于自己的ChatGPT应用",
+                "href": "https://open-gpt.app"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/github-copilot-icon.png",
+                "name": "GitHub Copilot",
+                "des": "GitHub AI编程工具",
+                "href": "https://github.com/features/copilot"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/new-bing-icon.png",
+                "name": "Bing Image Creator",
+                "des": "微软必应推出的基于DALL·E的AI图像生成工具",
+                "href": "https://www.bing.com/create"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/baidu-yiyan-icon.png",
+                "name": "文心一言",
+                "des": "百度推出的基于文心大模型的AI对话互动工具",
+                "href": "https://yiyan.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tongyi.png",
+                "name": "通义千问",
+                "des": "阿里推出类ChatGPT的产品",
+                "href": "https://tongyi.aliyun.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/new-bing-icon.png",
+                "name": "Bing新必应",
+                "des": "微软推出的新版结合了ChatGPT功能的必应",
+                "href": "https://www.bing.com/new"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/heypi-icon.png",
+                "name": "Pi",
+                "des": "DeepMind联创新公司推出的AI聊天机器人",
+                "href": "https://heypi.com/talk"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/autogpt-icon.png",
+                "name": "Auto-GPT",
+                "des": "爆火的实现GPT-4完全自主的实验性开源项目",
+                "href": "https://agpt.co"
+            }
+        ]
+    },
+    {
+        "title": "国内热门",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/baidu-yiyan-icon.png",
+                "name": "文心一言",
+                "des": "百度推出的基于文心大模型的AI对话互动工具",
+                "href": "https://yiyan.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tongyi.png",
+                "name": "通义千问",
+                "des": "阿里推出类ChatGPT的产品",
+                "href": "https://tongyi.aliyun.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "文心一格",
+                "des": "AI艺术和创意辅助平台",
+                "href": "https://yige.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sensetime.png",
+                "name": "商量",
+                "des": "商汤科技 AGI",
+                "href": "https://chat.sensetime.com/wb/#/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/xiezuocat-ai-icon.png",
+                "name": "写作猫",
+                "des": "AI写作，文档管理",
+                "href": "https://xiezuocat.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/gezhe-caixuan-icon.png",
+                "name": "歌者AI",
+                "des": "彩漩推出的AI 智能对话、PPT生成工具、辅助阅读",
+                "href": "https://gezhe.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/if-caiyunai-icon.png",
+                "name": "彩云小梦",
+                "des": "彩云科技推出的智能AI故事写作工具",
+                "href": "https://if.caiyunai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/heyfriday-icon.png",
+                "name": "HeyFriday",
+                "des": "国内团队推出的智能AI写作工具",
+                "href": "https://www.heyfriday.cn/home"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codegeex-icon.png",
+                "name": "CodeGeex",
+                "des": "国内团队开发的免费AI编程助手",
+                "href": "https://codegeex.cn/zh-CN"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tiangong-kunlun-icon.png",
+                "name": "天工AI助手",
+                "des": "昆仑万维与奇点智源联合研发的对标ChatGPT的大语言模型",
+                "href": "https://tiangong.kunlun.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wudao-icon.png",
+                "name": "悟道",
+                "des": "智源“悟道”大模型，中国首个+世界最大人工智能大模型",
+                "href": "https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/xinghuo-xfyun-icon.png",
+                "name": "讯飞星火认知大模型",
+                "des": "科大讯飞推出的类ChatGPT的讯飞星火认知大模型",
+                "href": "http://xinghuo.xfyun.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tigerbot-icon.png",
+                "name": "TigerBot",
+                "des": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+                "href": "https://tigerbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ai-360-icon.png",
+                "name": "360智脑",
+                "des": "360搜索最新推出的AI对话聊天机器",
+                "href": "https://ai.360.cn/"
+            }
+        ]
+    },
+    {
+        "title": "对话工具",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/baidu-yiyan-icon.png",
+                "name": "文心一言",
+                "des": "百度推出的基于文心大模型的AI对话互动工具",
+                "href": "https://yiyan.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/xinghuo-xfyun-icon.png",
+                "name": "讯飞星火认知大模型",
+                "des": "科大讯飞推出的类ChatGPT的讯飞星火认知大模型",
+                "href": "http://xinghuo.xfyun.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tigerbot-icon.png",
+                "name": "TigerBot",
+                "des": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+                "href": "https://tigerbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chat-baidu-icon.png",
+                "name": "百度AI伙伴",
+                "des": "百度最新上线的AI搜索对话工具",
+                "href": "https://chat.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/google-bard-favicon.png",
+                "name": "Google Bard",
+                "des": "Google推出的AI聊天对话机器人Bard",
+                "href": "https://bard.google.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/anthropic-icon.png",
+                "name": "Claude",
+                "des": "ChatGPT的最为有力的竞争对手之一",
+                "href": "https://www.anthropic.com/earlyaccess"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/forefront.png",
+                "name": "ForeFront",
+                "des": "针对性地帮助自己完成各种任务",
+                "href": "https://chat.forefront.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/poe.ico",
+                "name": "poe",
+                "des": "使用提示创建自己的机器人",
+                "href": "https://poe.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huggingchat-icon.png",
+                "name": "HuggingChat",
+                "des": "HuggingFace推出的在线聊天机器人，基于Open Assistant模型",
+                "href": "https://huggingface.co/chat"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ai-360-icon.png",
+                "name": "360智脑",
+                "des": "360搜索最新推出的AI对话聊天机器人",
+                "href": "https://ai.360.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/moss-icon.png",
+                "name": "MOSS",
+                "des": "复旦大学团队开发的对话式大型语言模型",
+                "href": "https://moss.fastnlp.top"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatglm-icon.png",
+                "name": "ChatGLM",
+                "des": "开源的、支持中英双语的1300亿参数的对话语言模型",
+                "href": "https://chatglm.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/character-ai-icon.png",
+                "name": "Character.AI",
+                "des": "创建虚拟角色并与其对话",
+                "href": "https://character.ai"
+            }
+        ]
+    },
+    {
+        "title": "写作",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/openai-gpt-model.png",
+                "name": "GPT-4",
+                "des": "OpenAI旗下最新的GPT-4模型",
+                "href": "https://openai.com/product/gpt-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/jasper-ai-icon.png",
+                "name": "Jasper",
+                "des": "AI文字内容创作工具",
+                "href": "https://www.jasper.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/copy-ai-icon.png",
+                "name": "Copy.ai",
+                "des": "人工智能营销文案和内容创作工具",
+                "href": "https://www.copy.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/writesonic-icon.png",
+                "name": "Writesonic",
+                "des": "AI写作，文案，释义工具",
+                "href": "https://writesonic.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatdoc.png",
+                "name": "ChatDoc",
+                "des": "基于 ChatGPT 的文件阅读助手",
+                "href": "https://chatdoc.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatthing.png",
+                "name": "ChatThing",
+                "des": "和私有文档进行对话",
+                "href": "https://chatthing.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/myaskai.png",
+                "name": "MyAskAi",
+                "des": "文档网页私人问答",
+                "href": "https://myaskai.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/rytr-me-icon.png",
+                "name": "Rytr",
+                "des": "AI内容生成和写作助手",
+                "href": "https://rytr.me"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/notion-ai-icon.png",
+                "name": "Notion AI",
+                "des": "Notion旗下的AI笔记和内容创作助手",
+                "href": "https://www.notion.so/product/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/weeklyreport.png",
+                "name": "周报生成器",
+                "des": "简单描述工作内容 帮你生成完整周报",
+                "href": "https://weeklyreport.avemaria.fun/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/quillbot-icon.png",
+                "name": "QuillBot",
+                "des": "AI英/德语写作润色和改进工具",
+                "href": "https://try.quillbot.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepl-write-icon.png",
+                "name": "DeepL Write",
+                "des": "DeepL推出的AI驱动的写作助手",
+                "href": "https://www.deepl.com/write"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huoshan-writing-icon.png",
+                "name": "火山写作",
+                "des": "字节跳动旗下团队推出的英语写作助手",
+                "href": "https://www.writingo.net"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/novel-ai-icon.png",
+                "name": "NovelAI",
+                "des": "AI小说故事创作工具",
+                "href": "https://novelai.net"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/bearly-ai-icon.png",
+                "name": "Bearly",
+                "des": "AI阅读总结、写作和内容生成助手",
+                "href": "https://bearly.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/contentbot-icon.png",
+                "name": "ContentBot",
+                "des": "AI快速写作工具",
+                "href": "https://contentbot.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/copysmith-icon.png",
+                "name": "Copysmith",
+                "des": "企业级和电商文案生成",
+                "href": "https://copysmith.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/canva-icon.png",
+                "name": "Magic Write",
+                "des": "Canva旗下AI文案生成器",
+                "href": "https://www.canva.com/magic-write"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/peppertype-ai-icon.png",
+                "name": "Peppertype.ai",
+                "des": "高质量AI内容生成",
+                "href": "https://www.peppertype.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/spell-tools-icon.png",
+                "name": "Spell.tools",
+                "des": "高颜值AI内容营销创作工具",
+                "href": "https://spell.tools"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/taobao-xiyu-icon.png",
+                "name": "悉语",
+                "des": "阿里旗下智能文案工具，一键生成电商营销文案",
+                "href": "https://chuangyi.taobao.com/pages/aiCopy"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wen-mobvoi-icon.png",
+                "name": "奇妙文",
+                "des": "出门问问推出的AI写作助理",
+                "href": "https://wen.mobvoi.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tinywow.png",
+                "name": "TinyWow",
+                "des": "无需注册提供AI写作等功能",
+                "href": "https://tinywow.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/beautiful-ai-icon.png",
+                "name": "beautiful.ai",
+                "des": "AI创建生成幻灯片",
+                "href": "https://www.beautiful.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatpdf.ico",
+                "name": "ChatPDF",
+                "des": "几分钟帮你解读pdf文件",
+                "href": "https://www.chatpdf.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/palm2-icon.png",
+                "name": "PaLM 2",
+                "des": "Google的下一代大语言模型，超过3400亿参数",
+                "href": "https://ai.google/discover/palm2"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/treemind-shutu-icon.png",
+                "name": "TreeMind树图",
+                "des": "新一代AI智能思维导图",
+                "href": "https://shutu.cn/"
+            }
+        ]
+    },
+    {
+        "title": "文本翻译",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/google-translate-icon.png",
+                "name": "Google翻译",
+                "des": "Google免费提供的上百种语言智能翻译工具",
+                "href": "https://translate.google.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-baidu-icon.png",
+                "name": "百度翻译",
+                "des": "200种语言互译、沟通全世界！",
+                "href": "https://fanyi.baidu.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-youdao-icon.png",
+                "name": "有道翻译",
+                "des": "在线即时翻译文本、文档、网页",
+                "href": "https://fanyi.youdao.com/index.html#"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-sogou-icon.png",
+                "name": "搜狗翻译",
+                "des": "你的贴身智能翻译专家",
+                "href": "https://fanyi.sogou.com/text"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fanyi-xfyun-icon.png",
+                "name": "讯飞智能翻译",
+                "des": "科大讯飞推出的人工智能翻译平台",
+                "href": "https://fanyi.xfyun.cn/console/trans/text"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepl-write-icon.png",
+                "name": "DeepL翻译",
+                "des": "准确的人工智能翻译工具",
+                "href": "https://www.deepl.com/translator"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/translate-voclengine-icon.png",
+                "name": "火山翻译",
+                "des": "字节跳动推出的智能翻译工具",
+                "href": "https://translate.volcengine.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/translate-alibaba-icon.png",
+                "name": "阿里翻译",
+                "des": "阿里巴巴达摩院推出的多领域多语种的在线机器翻译",
+                "href": "https://translate.alibaba.com/?ref=ai-bot.cn"
+            }
+        ]
+    },
+    {
+        "title": "图像",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/midjourney-icon.png",
+                "name": "Midjourney",
+                "des": "AI图像和插画生成工具",
+                "href": "https://midjourney.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/leonardo-logo.png",
+                "name": "Leonardo.AI",
+                "des": "强大AI图像生成工具",
+                "href": "https://app.leonardo.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/getimg.png",
+                "name": "getimg.ai",
+                "des": "生成原创图片",
+                "href": "https://getimg.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/playgroundai.png",
+                "name": "playgroundai",
+                "des": "很好上手的图片生成工具",
+                "href": "https://playgroundai.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/dreamlike.png",
+                "name": "dreamlike",
+                "des": "文本生成图片工具",
+                "href": "https://dreamlike.art"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/new-bing-icon.png",
+                "name": "Bing Image Creator",
+                "des": "微软必应推出的基于DALL·E的AI图像生成工具",
+                "href": "https://www.bing.com/create"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stability-ai-icon.png",
+                "name": "DreamStudio",
+                "des": "Stability AI推出的文本到图像生成AI模型",
+                "href": "http://beta.dreamstudio.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/remove-bg-icon.png",
+                "name": "remove.bg",
+                "des": "强大的AI背景移除工具",
+                "href": "https://www.remove.bg/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ribbet-ai-icon.png",
+                "name": "Ribbet.ai",
+                "des": "AI图片处理工具箱",
+                "href": "https://ribbet.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/adobe-icon.png",
+                "name": "Adobe Firefly",
+                "des": "Adobe最新推出的AI图片生成工具",
+                "href": "https://firefly.adobe.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/booltool-icon.png",
+                "name": "Booltool",
+                "des": "在线AI图像工具箱",
+                "href": "https://booltool.boolv.tech/home"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/hama-app-icon.png",
+                "name": "Hama",
+                "des": "在线抹除图片中不想要的物体",
+                "href": "https://www.hama.app/zh"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/pixelcut-icon.png",
+                "name": "Pixelcut.ai",
+                "des": "AI产品背景移除和替换",
+                "href": "https://www.pixelcut.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/meitu-cutout-icon.png",
+                "name": "美图抠图",
+                "des": "美图秀秀推出的AI智能抠图工具，一键移除背景",
+                "href": "https://cutout.meitu.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paint-mobvoi-icon.png",
+                "name": "言之画",
+                "des": "AI图像内容创作平台，由出门问问推出",
+                "href": "https://paint.mobvoi.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/taishan-qq-icon.png",
+                "name": "智绘设计",
+                "des": "腾讯推出的智能设计平台，让内容更精彩",
+                "href": "https://taishan.qq.com/brand"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aliyun-icon.png",
+                "name": "阿里云智能logo设计",
+                "des": "阿里云推出的智能Logo设计",
+                "href": "https://logo.aliyun.com/logo#/aigc"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ailogo-qq-icon.png",
+                "name": "AIDesign",
+                "des": "腾讯推出的免费AI Logo在线设计工具",
+                "href": "https://ailogo.qq.com/guide/brandname"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/luban-icon.png",
+                "name": "鹿班",
+                "des": "阿里推出的智能设计商品图和海报的平台",
+                "href": "https://luban.aliyun.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/clipdrop-relight-icon-1.png",
+                "name": "Relight",
+                "des": "ClipDrop推出的AI图像打光工具",
+                "href": "https://clipdrop.co/relight"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/clipdrop-icon.png",
+                "name": "ClipDrop",
+                "des": "Stability.ai推出的AI图片处理系列工具",
+                "href": "https://clipdrop.co"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/shimo.jpg",
+                "name": "标小智",
+                "des": "AI智能设计LOGO神器",
+                "href": "https://www.logosc.cn/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/shimo_ai.png",
+                "name": "AI改图神器",
+                "des": "不会PS也能即刻上手的万能图片在线编辑器",
+                "href": "https://img.logosc.cn/"
+            }
+        ]
+    },
+    {
+        "title": "电商工具",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-icon.png",
+                "name": "ChatGPT",
+                "des": "OpenAI旗下AI对话工具",
+                "href": "https://chat.openai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/openai-gpt-model.png",
+                "name": "GPT-4",
+                "des": "OpenAI旗下最新的GPT-4模型",
+                "href": "https://openai.com/product/gpt-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/midjourney-icon.png",
+                "name": "Midjourney",
+                "des": "AI图像和插画生成工具",
+                "href": "https://midjourney.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stablediffusionweb.png",
+                "name": "stable diffusion web",
+                "des": "生成服装模特",
+                "href": "https://stablediffusionweb.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/mokker.png",
+                "name": "mokker ai",
+                "des": "抠图加背景",
+                "href": "https://mokker.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/descript.png",
+                "name": "descript",
+                "des": "短视频自动生成",
+                "href": "https://www.descript.com/"
+            }
+        ]
+    },
+    {
+        "title": "编程",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/github-copilot-icon.png",
+                "name": "GitHub Copilot",
+                "des": "GitHub AI编程工具",
+                "href": "https://github.com/features/copilot"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codeium-icon.png",
+                "name": "Codeium",
+                "des": "AI代码生成和补全",
+                "href": "https://www.codeium.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/tabnine-icon.png",
+                "name": "Tabnine",
+                "des": "AI代码自动补全编程助手",
+                "href": "https://www.tabnine.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sketch2code-icon.png",
+                "name": "Sketch2Code",
+                "des": "微软AI Lab推出的将手绘草图转换成HTML代码工具",
+                "href": "https://sketch2code.azurewebsites.net"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codiumai-icon.png",
+                "name": "CodiumAI",
+                "des": "AI代码测试工具",
+                "href": "https://www.codium.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codiga-icon.png",
+                "name": "Codiga",
+                "des": "AI代码实时分析",
+                "href": "https://www.codiga.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/codegeex-icon.png",
+                "name": "CodeGeex",
+                "des": "国内团队开发的免费AI编程助手",
+                "href": "https://codegeex.cn/zh-CN"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/vs-intellicode-icon.png",
+                "name": "Visual Studio IntelliCode",
+                "des": "Visual Studio AI辅助开发",
+                "href": "https://visualstudio.microsoft.com/zh-hans/services/intellicode"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/blackbox-ai-icon.png",
+                "name": "BLACKBOX AI",
+                "des": "黑箱AI编程助理，快速代码生成",
+                "href": "https://www.useblackbox.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aixcoder-icon.png",
+                "name": "aiXcoder",
+                "des": "自然语言到代码的方法级代码生成，以及多行智能代码补全",
+                "href": "https://www.aixcoder.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sourcegraph-cody-icon.png",
+                "name": "Cody",
+                "des": "Sourcegraph推出的免费AI编程工具",
+                "href": "https://about.sourcegraph.com/cody"
+            }
+        ]
+    },
+    {
+        "title": "视频",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/runwayml-icon.png",
+                "name": "Runway",
+                "des": "Runway最开始是一个供创作人...",
+                "href": "https://runwayml.com/green-screen"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/d-id-icon.png",
+                "name": "D-ID",
+                "des": "AI真人口播视频生成工具",
+                "href": "https://www.d-id.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/heygen-icon.png",
+                "name": "HeyGen",
+                "des": "AIGC 视频创建平台，生成吸引人的商业视频",
+                "href": "https://www.heygen.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/colossyan-icon.png",
+                "name": "Colossyan",
+                "des": "AI虚拟人出镜视频生成",
+                "href": "https://www.colossyan.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/elai.io-icon.png",
+                "name": "Elai.io",
+                "des": "AI文本到视频生成工具",
+                "href": "https://elai.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepbrain-ai-icon.png",
+                "name": "DeepBrain",
+                "des": "AI口播视频生成工具",
+                "href": "https://www.deepbrain.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/zenvideo-qq-icon.png",
+                "name": "腾讯智影",
+                "des": "腾讯推出的在线智能视频创作平台",
+                "href": "https://zenvideo.qq.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/weta365-icon.png",
+                "name": "奇妙元",
+                "des": "AI数字人视频生成平台，由出门问问推出",
+                "href": "https://weta365.com/conduct"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/virbo-wondershare-icon.png",
+                "name": "万兴播爆",
+                "des": "万兴科技推出的AI数字人口播视频营销工具",
+                "href": "https://virbo.wondershare.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/musiclm.png",
+                "name": "MusicLM",
+                "des": "输入文字就能生成歌曲",
+                "href": "https://google-research.github.io/seanet/musiclm/examples/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/musicgen.png",
+                "name": "MusicGen",
+                "des": "meta开源的文字生成歌曲",
+                "href": "https://huggingface.co/spaces/facebook/MusicGen"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/artflow-ai-icon.png",
+                "name": "Artflow",
+                "des": "AI创建生成视频动画",
+                "href": "https://www.app.artflow.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/unscreen-icon.png",
+                "name": "Unscreen",
+                "des": "AI智能视频背景移除工具",
+                "href": "https://www.unscreen.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/lumen5-icon.png",
+                "name": "Lumen5",
+                "des": "AI将博客文章转换成视频",
+                "href": "https://lumen5.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deepbrain-ai-icon.png",
+                "name": "DeepBrain",
+                "des": "AI视频生成工具",
+                "href": "https://www.deepbrain.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/dreamface-icon.png",
+                "name": "DreamFace",
+                "des": "让图片动起来的AI工具",
+                "href": "https://dreamfaceapp.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/voice-ai.png",
+                "name": "Voice.AI",
+                "des": "AI配音软件",
+                "href": "https://voice.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/fliki-icon.png",
+                "name": "Fliki",
+                "des": "AI文字转视频并配音",
+                "href": "https://fliki.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/colourlab-icon.png",
+                "name": "Colourlab.ai",
+                "des": "好莱坞也在用的AI视频颜色分级工具",
+                "href": "https://colourlab.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/uberduck-icon.png",
+                "name": "Uberduck",
+                "des": "开源的AI语音生成社区，5000多种不同的声音",
+                "href": "https://uberduck.ai/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/moyin-icon.png",
+                "name": "魔音工坊",
+                "des": "短视频/有声书AI配音平台，由出门问问推出",
+                "href": "https://www.moyin.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/beatbot-icon.png",
+                "name": "BeatBot",
+                "des": "输入文本提示快速生成歌曲和音乐",
+                "href": "https://beatbot.fm/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aigc-yizhentv-icon.png",
+                "name": "一帧秒创",
+                "des": "简单好用的AI智能视频创作平台",
+                "href": "https://aigc.yizhentv.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/synthesia-ai-icon.png",
+                "name": "Synthesia",
+                "des": "AI视频生成平台",
+                "href": "https://www.synthesia.io/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/weta365-icon.png",
+                "name": "奇妙元",
+                "des": "AI数字人视频生成平台，由出门问问推出",
+                "href": "https://weta365.com/conduct"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/autopod.ico",
+                "name": "AutoPod",
+                "des": "自动编辑视频播客和节目",
+                "href": "https://www.autopod.fm/"
+            }
+        ]
+    },
+    {
+        "title": "提示词",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/aishort.ico",
+                "name": "ChatGPT Shortcut",
+                "des": "让生产力加倍的 ChatGPT 快捷指令",
+                "href": "https://www.aishort.top/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/prompthero.png",
+                "name": "prompthero",
+                "des": "midjourney等提示词工具",
+                "href": "https://prompthero.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/promptomania.png",
+                "name": "promptomania",
+                "des": "AI绘图提示词工具",
+                "href": "https://promptomania.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/prompthunt.png",
+                "name": "Prompt Hunt",
+                "des": "提示词共享社区",
+                "href": "https://www.prompthunt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/imiprompt.png",
+                "name": "IMI Prompt",
+                "des": "AI绘图关键词",
+                "href": "https://imiprompt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/publicprompts.png",
+                "name": "Public Prompts",
+                "des": "大型语言模型提示词",
+                "href": "https://publicprompts.art/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/promptbase.png",
+                "name": "Prompt Base",
+                "des": "提示词市场",
+                "href": "https://promptbase.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/snack-prompt-icon.png",
+                "name": "Snack Prompt",
+                "des": "探索最新的ChatGPT语义提示词",
+                "href": "https://snackprompt.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/icihun-icon.png",
+                "name": "词魂",
+                "des": "AIGC精品提示词库",
+                "href": "https://icihun.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/flowgpt.ico",
+                "name": "FLOWGPT",
+                "des": "分享AI工具相关Prompt提示词的社区网站",
+                "href": "https://flowgpt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/motiongo.ico",
+                "name": "MotionGo",
+                "des": "命令式对话一键智能生成PPT",
+                "href": "https://motion.yoo-ai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/175ai-cn-logo.png",
+                "name": "一起玩Ai",
+                "des": "AI做图提示词助手，每日灵感分享",
+                "href": "https://175ai.cn"
+            }
+        ]
+    },
+    {
+        "title": "插件",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/gptzhihu.jpg",
+                "name": "gpt for zhihu",
+                "des": "chatgpt for zhihu",
+                "href": "https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-prompt-genius.jpg",
+                "name": "ChatGPT 智能提示",
+                "des": "ChatGPT 智能提示",
+                "href": "https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/gimme-summary-get-summary.jpg",
+                "name": "Gimme Summary",
+                "des": "Get summary using ChatGPT AI",
+                "href": "https://chrome.google.com/webstore/detail/gimme-summary-get-summary/mpjcikcpmljllcobpboakgocbenkhokc"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/Perplexity.jpg",
+                "name": "Perplexity - Ask AI",
+                "des": "用AI对当前网址做摘要",
+                "href": "https://chrome.google.com/webstore/detail/perplexity-ask-ai/hlgbcneanomplepojfcnclggenpcoldo"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sharegpt.png",
+                "name": "sharegpt",
+                "des": "分享chatgpt的聊天",
+                "href": "https://sharegpt.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aiprm.png",
+                "name": "aiprm",
+                "des": "提示词插件-Midjourney生成器",
+                "href": "https://aiprm.com/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-glarity.jpg",
+                "name": "Glarity",
+                "des": "网页总结摘要的开源插件",
+                "href": "https://glarity.app/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/wiseone_logo.webp",
+                "name": "Wiseone",
+                "des": "掌握你正在在线阅读的任何主题",
+                "href": "https://wiseone.io/"
+            }
+        ]
+    },
+    {
+        "title": "分辨AI",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/gptzero-icon.png",
+                "name": "GPTZero",
+                "des": "超过百万人都在用的免费AI内容检测工具",
+                "href": "https://gptzero.me"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/studycorgi-icon.png",
+                "name": "StudyCorgi ChatGPT Detector",
+                "des": "StudyCorgi推出的帮助学生检测ChatGPT的工具",
+                "href": "https://studycorgi.com/free-writing-tools/chat-gpt-detector"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/smodin-icon.png",
+                "name": "Smodin AI Content Detector",
+                "des": "多语种AI内容检测工具",
+                "href": "https://smodin.io/ai-content-detector"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/sapling-ai-icon.png",
+                "name": "Sapling AI Content Detector",
+                "des": "Sapling.ai推出的免费在线AI内容检测工具",
+                "href": "https://sapling.ai/utilities/ai-content-detector"
+            }
+        ]
+    },
+    {
+        "title": "学习网站",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/coursera-icon.png",
+                "name": "Coursera",
+                "des": "大型公开在线课程项目",
+                "href": "https://www.coursera.org/collections/best-machine-learning-ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/kaggle-icon.png",
+                "name": "Kaggle",
+                "des": "机器学习和数据科学社区",
+                "href": "https://www.kaggle.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/elements-of-ai-icon.png",
+                "name": "Elements of AI",
+                "des": "免费在线AI通识学习",
+                "href": "https://www.elementsofai.com"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/deeplearning-ai-icon.png",
+                "name": "DeepLearning.AI",
+                "des": "深度学习和人工智能学习平台",
+                "href": "https://www.deeplearning.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/d2l-icon.png",
+                "name": "动手学深度学习",
+                "des": "动手学深度学习的教材和课程",
+                "href": "https://zh.d2l.ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/machinelearningmastery-icon.png",
+                "name": "MachineLearningMastery",
+                "des": "免费在线学习机器学习，从基础到高级",
+                "href": "https://machinelearningmastery.com/start-here"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/brilliant-intro-neural-networks.png",
+                "name": "神经网络入门",
+                "des": "Brilliant推出的Introduction to Neural Networks课程",
+                "href": "https://brilliant.org/courses/intro-neural-networks"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/udacity-icon.png",
+                "name": "Udacity AI学院",
+                "des": "Udacity推出的School of AI，从入门到高级",
+                "href": "https://www.udacity.com/school/school-of-ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aliyun-icon.png",
+                "name": "阿里云AI学习路线",
+                "des": "阿里云推出的人工智能学习路线（学+测）",
+                "href": "https://developer.aliyun.com/learning/roadmap/ai"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/google-ai-icon.png",
+                "name": "Google AI",
+                "des": "Google AI学习平台",
+                "href": "https://ai.google"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/huggingface-icon.png",
+                "name": "HuggingFace",
+                "des": "AI开发社区",
+                "href": "https://huggingface.co"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "飞桨AI Studio",
+                "des": "人工智能学习实训社区",
+                "href": "https://aistudio.baidu.com"
+            }
+        ]
+    },
+    {
+        "title": "开源项目",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/stable-diffusion.png",
+                "name": "stable-diffusion",
+                "des": "文本到图像的扩散模型",
+                "href": "https://github.com/CompVis/stable-diffusion"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ChatGLM-6B.png",
+                "name": "ChatGLM-6B",
+                "des": "ChatGLM-6B：开源双语对话语言模型",
+                "href": "https://github.com/THUDM/ChatGLM-6B"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/stanford_alpaca.png",
+                "name": "stanford alpaca",
+                "des": "Stanford's Alpaca 模型的代码和训练数据",
+                "href": "https://github.com/tatsu-lab/stanford_alpaca"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ChuanhuChatGPT.png",
+                "name": "川虎 Chat",
+                "des": "为ChatGPT/ChatGLM/LLaMA等多种LLM提供了一个轻快好用的Web图形界面",
+                "href": "https://github.com/GaiZhenbiao/ChuanhuChatGPT"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/open-assistant.png",
+                "name": "Open-Assistant",
+                "des": "能够理解任务的聊天助手",
+                "href": "https://github.com/LAION-AI/Open-Assistant"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/PaLM-rlhf-pytorch.png",
+                "name": "PaLM-rlhf-pytorch",
+                "des": "使用 PaLM的ChatGPT",
+                "href": "https://github.com/lucidrains/PaLM-rlhf-pytorch"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/OpenChatKit.png",
+                "name": "OpenChatKit",
+                "des": "为各种应用程序创建专用和通用聊天机器人",
+                "href": "https://github.com/togethercomputer/OpenChatKit"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatgpt-web.png",
+                "name": "chatgpt-web",
+                "des": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+                "href": "https://github.com/Chanzhaoyu/chatgpt-web"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/MiniGPT-4.png",
+                "name": "MiniGPT-4",
+                "des": "看图回答问题",
+                "href": "https://github.com/Vision-CAIR/MiniGPT-4"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/law-cn-ai.ico",
+                "name": "AI 法律助手",
+                "des": "看图回答问题",
+                "href": "https://law-cn-ai.vercel.app/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/word-GPT-Plus.png",
+                "name": "Word GPT Plus",
+                "des": "chatGPT 模型的 Word 插件",
+                "href": "https://github.com/Kuingsmile/word-GPT-Plus"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/aishort.ico",
+                "name": "ChatGPT Shortcut",
+                "des": "让生产力加倍的 ChatGPT 快捷指令",
+                "href": "https://www.aishort.top/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/chatpaper.png",
+                "name": "ChatPaper",
+                "des": "利用chatgpt进行论文总结+润色+审稿+审稿回复",
+                "href": "https://chatpaper.org/"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/ChatReviewer.png",
+                "name": "ChatReviewer",
+                "des": "利用ChatGPT对论文进行优缺点分析，提出改进建议",
+                "href": "https://github.com/nishiwen1214/ChatReviewer"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/gpt_academic.png",
+                "name": "gpt_academic",
+                "des": "论文阅读润色体验",
+                "href": "https://github.com/binary-husky/gpt_academic"
+            }
+        ]
+    },
+    {
+        "title": "开发框架",
+        "children": [
+            {
+                "url": "https://aibard123.com/assets/images/logos/tensorflow-icon.png",
+                "name": "TensorFlow",
+                "des": "Google推出的机器学习和人工智能开源库",
+                "href": "https://www.tensorflow.org/?hl=zh-cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/pytorch-icon.png",
+                "name": "PyTorch",
+                "des": "开源机器学习框架",
+                "href": "https://pytorch.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/paddlepaddle-icon.png",
+                "name": "飞桨PaddlePaddle",
+                "des": "开源深度学习平台",
+                "href": "https://www.paddlepaddle.org.cn"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/apache-mxnet-icon.png",
+                "name": "Apache MXNet",
+                "des": "免费开源的深度学习框架",
+                "href": "https://mxnet.apache.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/scikit-learn-icon.png",
+                "name": "Scikit-learn",
+                "des": "Python机器学习库",
+                "href": "https://scikit-learn.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/keras-icon.png",
+                "name": "Keras",
+                "des": "Python版本的TensorFlow深度学习API",
+                "href": "https://keras.io"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/caffe-framework.png",
+                "name": "Caffe",
+                "des": "UC伯克利研究推出的深度学习框架",
+                "href": "https://caffe.berkeleyvision.org"
+            },
+            {
+                "url": "https://aibard123.com/assets/images/logos/numpy-icon.png",
+                "name": "NumPy",
+                "des": "Python科学计算必备的包",
+                "href": "https://numpy.org"
+            }
+        ]
+    }
+]
